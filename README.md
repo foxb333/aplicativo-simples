@@ -55,7 +55,7 @@ flutter doctor
 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/davifelipef/medita-em-paz.git
 ```
 
 2. Acessar a pasta do projeto
